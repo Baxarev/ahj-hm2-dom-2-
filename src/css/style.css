@@ -1,0 +1,16 @@
+body {
+  color: #999;
+}
+
+.box__row {
+  display: flex;
+}
+
+.box__item {
+  width: 100px;
+  height: 100px;
+}
+
+.box__item_active {
+  background: center / contain no-repeat url("https://raw.githubusercontent.com/netology-code/ahj-homeworks/AHJ-50/dom/pic/goblin.png");
+}
